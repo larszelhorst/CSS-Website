@@ -1,0 +1,170 @@
+a {
+    color: #00ADB5;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #EEEEEE;
+}
+
+body {
+    color: #EEEEEE;
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 15px;
+    color: #222831;
+    padding-bottom: 20px;
+    width: 30%;   
+}
+
+h1 {
+    color: #00ADB5;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+    margin: 0 auto 0 auto; 
+}
+
+h2 {
+    color: #00ADB5;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
+    padding-top: 20px;
+} 
+
+h3 {
+    color: #00ADB5;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.bottom-container {
+    background-color: #222831;
+    padding-bottom: 16px;
+    padding-top: 40px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.contact-me {
+    background-color: #393E46;
+    line-height: 2;
+    margin: 0 auto 0 auto;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    width: 40%;
+}
+
+.copyright {
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.designpicture {
+    float: right;
+    padding-left: 30px;
+}
+
+.developer {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.developmentpicture {
+    float: left;
+    padding-right: 30px;
+}
+
+.earth {
+    bottom: 300px;
+    height: 150px;
+    left: 180px;
+    position: absolute;
+}
+
+.middle-container {
+    background-color: #393E46;
+}
+
+.planet {
+    height: 150px;
+    position: absolute;
+    right: 200px;
+    top: 80px;
+}
+
+.profile-picture {
+    padding-top: 30px;
+    height: 100px;
+}
+
+.projectstatus {
+    color: greenyellow;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.skills {
+    background-color: #393E46;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 70%;
+}
+    
+.space-station {
+    height: 420px;
+    margin-bottom: -47px;
+}
+
+.top-container {
+    background-color: #222831;
+    padding-top:100px;
+    position: relative;
+}     
+
+.web {
+    text-decoration: underline;
+}
+
+.who-am-i {
+    line-height: 2;
+    margin: 0 auto 0 auto;
+    width: 50%;
+}
+
